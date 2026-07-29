@@ -2,7 +2,7 @@
 
 Infrastructure & Automation Engineer | 6+ años en infraestructura crítica, CI/CD y automatización
 
-[LinkedIn](#) · [CV](#) · diego.espinoza.pacheco@gmail.com
+[LinkedIn](https://www.linkedin.com/in/diegoespinozapusm/) · diego.espinoza.pacheco@gmail.com
 
 Este repositorio reúne mis certificaciones y programas de formación en curso, organizados por proveedor/programa.
 
