@@ -12,10 +12,9 @@ Este repositorio reúne mis certificaciones y programas de formación en curso, 
 
 | Certificación | Emisor | Estado | Verificación |
 |---|---|---|---|
-| AWS Solutions Architect Learning Plan | AWS | En curso (50%) | [Carpeta AWS](https://github.com/DiegoEspinozaPacheco/Portfolio/tree/main/AWS) |
-| AWS Cloud Practitioner / SysOps Administrator | AWS | En curso | [Carpeta AWS](https://github.com/DiegoEspinozaPacheco/Portfolio/tree/main/AWS) |
-| DevOps with Docker | Universidad de Helsinki | Completo | [Carpeta Docker-Helsinki](https://github.com/DiegoEspinozaPacheco/Portfolio/tree/main/Docker-Helsinki) |
-| EFSET English Certificate (C2 lectura / C1 audición) | EF SET | Completo | [Carpeta English](https://github.com/DiegoEspinozaPacheco/Portfolio/tree/main/English) |
+| [AWS Solutions Architect Learning Plan](https://skillbuilder.aws/learning-plan/EB6SVX4CTK/aws-solutions-architect-learning-plan-includes-labs-espaol-latam/Y9CZWZGJCV) | AWS | En curso (20/36) | [Carpeta AWS](https://github.com/DiegoEspinozaPacheco/Portfolio/tree/main/AWS) |
+| [DevOps with Docker](https://courses.mooc.fi/org/uh-cs/courses/devops-with-docker) | Universidad de Helsinki | Completo (3/3) | [Carpeta Docker-Helsinki](https://github.com/DiegoEspinozaPacheco/Portfolio/tree/main/Docker-Helsinki) |
+| [EFSET English Certificate](https://www.efset.org/es/) (C2 Lectura / C1 Audición) | EF SET | Completo | [Carpeta English](https://github.com/DiegoEspinozaPacheco/Portfolio/tree/main/English) |
 
 ---
 
