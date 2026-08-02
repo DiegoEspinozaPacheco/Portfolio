@@ -1,8 +1,8 @@
 # Portfolio — Diego Espinoza Pacheco
 
-Infrastructure & Automation Engineer | 6+ años en infraestructura crítica, CI/CD y automatización
+Infrastructure & Automation Engineer | 6+ años en infraestructura it crítica, CI/CD y automatización
 
-[LinkedIn](https://www.linkedin.com/in/diegoespinozapusm/) · diego.espinoza.pacheco@gmail.com
+[LinkedIn](https://www.linkedin.com/in/diegoespinozapusm/) · [diego.espinoza.pacheco@gmail.com](mailto:diego.espinoza.pacheco@gmail.com)
 
 Este repositorio reúne mis certificaciones y programas de formación en curso, organizados por proveedor/programa.
 
@@ -33,4 +33,4 @@ Certificado EFSET de nivel de inglés.
 
 ## Sobre mí
 
-Ingeniero de infraestructura y automatización con experiencia en operación de plataformas críticas en producción: redes, sistemas Linux, virtualización y CI/CD. Ver proyectos técnicos en los repositorios de este perfil.
+Ingeniero de infraestructura y automatización con experiencia en operación y diseño de plataformas críticas en producción: redes, sistemas Linux, virtualización y CI/CD.
