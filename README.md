@@ -21,7 +21,7 @@ Este repositorio reúne mis certificaciones y programas de formación en curso, 
 ## Índice completo por carpeta
 
 ### 📁 [AWS](https://github.com/DiegoEspinozaPacheco/Portfolio/tree/main/AWS)
-Certificados y módulos del AWS Solutions Architect Learning Plan y cursos de AWS Cloud Practitioner / SysOps Administrator.
+Certificados y módulos del AWS Solutions Architect Learning Plan.
 
 ### 📁 [Docker-Helsinki](https://github.com/DiegoEspinozaPacheco/Portfolio/tree/main/Docker-Helsinki)
 Certificados de las 3 partes del curso "DevOps with Docker" de la Universidad de Helsinki.
